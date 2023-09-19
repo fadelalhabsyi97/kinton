@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255842008661",
+    "project_id": "kopi-inaton",
+    "storage_bucket": "kopi-inaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255842008661:android:d976e59c1505397de45edc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255842008661-fpfio9ha59hbti0jlcfd423r9c8v5cg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLJSwSfbwMJdTig_4I2Xkh4WQZ5UmtmdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255842008661-fpfio9ha59hbti0jlcfd423r9c8v5cg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
